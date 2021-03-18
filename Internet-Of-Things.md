@@ -1,4 +1,4 @@
-##Internet of Things:
+## Internet of Things:
 
 The Internet of Things (IoT) is a concept where almost everything with access to the internet is connected and can talk to each other.
 This goes far beyond the technologies that many people might first assume being capable of communication - smartphones, computers etc - and reaches devices otherwise considered 'dumb' - think toasters, coffee makers and lamps - even to the scale of components within machines such as vehicles, drills on an oil rig or wind turbines.
