@@ -24,6 +24,14 @@ Machine learning will be significantly sped up with quantum computing. This will
 - https://analyticsindiamag.com/top-applications-of-quantum-computing-everyone-should-know-about/
 - https://www.bernardmarr.com/default.asp?contentID=1193
 
-## Is there anything Quantum Computing isn't as good at?
+## Will Quantum Computing replace classical computers?
 
-While quantum computing has the potential for many, many exciting advances in the computing world, classical computers that we use today are better at certain things. For example: S
+While quantum computing has the potential for many, many exciting advances in the computing world, it won't completely replace classical computers according to Andy Stanford Clark, IBM CTO for the UK and Ireland:
+"We're going to see, in the same way as you have a maths co-processor and a GPU on your classical computer...you'll have a quantum computer co-processor alongside your classical computer.
+
+When you come to a point where you've got to solve some massive exponential problem, you'll package it up, throw it over to the quantum co-processor, it'll burp out its answer and then you'll carry on with the answer to your computation in your classical algorithm."
+- https://www.techrepublic.com/article/quantum-computing-seven-truths-you-need-to-know/
+
+So quantum computing power for the everyday user will likely be used in tandem with classical computer computing methods, while pure quantum computing will be more commonly found in use by companies and research laboratories doing specific, computationally heavy tasks.
+The other reason for this is that quantum computers will be unable to run  the "if/then/else" type of logic that is present in traditional Von Neumann architecture computers, or the current "classical" computers we use day to day. This is a limiting factor in the number of uses for quantum computing.
+- https://www.techrepublic.com/article/quantum-computing-seven-truths-you-need-to-know/
