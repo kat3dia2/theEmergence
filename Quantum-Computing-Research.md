@@ -19,5 +19,5 @@ Quantum computers will be able to more accurately model and predict the weather.
 
 Machine learning will be significantly sped up with quantum computing. This will allow for the automation of tasks to become much quicker, and through quantum machine learning, more efficent ways will be found much more quickly.
 
--https://analyticsindiamag.com/top-applications-of-quantum-computing-everyone-should-know-about/
+- https://analyticsindiamag.com/top-applications-of-quantum-computing-everyone-should-know-about/
 - https://www.bernardmarr.com/default.asp?contentID=1193
