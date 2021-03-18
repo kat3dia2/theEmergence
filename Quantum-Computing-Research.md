@@ -11,7 +11,8 @@ Say we have a sequence of three classical bits, then we can only store 1 out of 
 So our system of three qubits make 8 calculations simultaneously, while the classical computer is only making one."
 - https://www.reddit.com/r/explainlikeimfive/comments/2flswu/eli5_what_are_the_advantages_of_quantum_computing/
 
-All of this computing power requires significant cooling however - "Quantum computers need to be kept at temperatures close to absolute zero, which is on the order of -270 degrees Celsius \[to operate correctly]"
+All of this computing power requires significant cooling however. Quantum computers need to be kept at temperatures close to absolute zero, which is in the range of -273 degrees Celsius to operate correctly"
+- https://innovationorigins.com/quantum-computers-can-now-run-at-higher-temperatures/
 
 ## What can Quantum Computing be used for?
 
