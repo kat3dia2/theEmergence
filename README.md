@@ -32,7 +32,7 @@
 * Connectivity requirements vary based on what the network is being used for.
 * Streaming a film on your smartphone and driving your connected car demand different connectivity levels that arent's always available with 4G. (Source: 2021 Thales Group) 
 
-* 5G has been described as a "game changer" and there's a lot of information and opinions about it.  Some of it is accurate but a lot if it isn't.>
+## 5G has been described as a "game changer" and there's a lot of information and opinions about it.  Some of it is accurate but a lot if it isn't.>
 ## MYTHS VS FACTS>
 * MYTH #1:  5g is an untested, new technology.>
 * Fact #1:  The technology 5G relies on is not new; it is integral to our lives and is tested in line with strict international safety standards.>
