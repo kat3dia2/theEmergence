@@ -1,3 +1,5 @@
+@12oman - we've added you as collaborator for you to have a look on our work, if necessary.  
+
 # theEmergence
 ## Top emerging technologies 
 * AI
