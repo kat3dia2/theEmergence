@@ -1,4 +1,5 @@
-@12oman - we've added you as collaborator for you to have a look on our work, if necessary.  
+@12oman - we've added you as collaborator for you to have a look on our work, if necessary. 
+from the team unBIOSed - Brayden, Michael James, Connor and Mary Catherine
 
 # theEmergence
 ## Top emerging technologies 
