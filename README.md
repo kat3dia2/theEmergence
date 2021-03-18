@@ -24,7 +24,7 @@
 
 
 ## 5G> 
-* What is 5G?
+## What is 5G?
 * 5G ua rgw 5th generation mobile network.  It is a new blobal wireles standard after 1G, 2G, 3G, and 4G networks.  %G enables a new kind of network that is designed to connect virtually everyone and everything together including machnes objects, and devices. (Source:  www.qualcomm.com)
 ## What is the difference between 5G up to 100 ties faster than 4G 
 * With 5G reaching 10 gigabts per second - up tp 100 times faster than 4G - 5G networks can deliver the level of performance needed for an increasingly connected society.  
@@ -33,7 +33,7 @@
 * Streaming a film on your smartphone and driving your connected car demand different connectivity levels that arent's always available with 4G. (Source: 2021 Thales Group) 
 
 * 5G has been described as a "game changer" and there's a lot of information and opinions about it.  Some of it is accurate but a lot if it isn't.>
-* #MYTHS VS FACTS>
+## MYTHS VS FACTS>
 * MYTH #1:  5g is an untested, new technology.>
 * Fact #1:  The technology 5G relies on is not new; it is integral to our lives and is tested in line with strict international safety standards.>
 * MYTH #2:  5G is harmful to human health>
