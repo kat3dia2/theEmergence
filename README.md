@@ -1,5 +1,5 @@
 # theEmergence
-## Top temerging technologies 
+## Top emerging technologies 
 * AI
 * 5G
 * IoT (Internet of Things)
