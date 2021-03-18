@@ -1,15 +1,15 @@
 # theEmergence
 ## Top temerging technologies 
-<AI>
-<5G>
-<IoT (Internet of Things)>
-<Serverless Computing>
-<Biometrics>
-<Augmented Reality/Virtual Reality>
-<Blockchain>
-<Robotics>
-<NLP (Natural Language Processing)>
-<Quantum Computing/>
+* AI
+* 5G
+* IoT (Internet of Things)
+* Serverless Computing
+* Biometrics
+* Augmented Reality/Virtual Reality
+* Blockchain
+* Robotics
+* NLP (Natural Language Processing)
+* Quantum Computing/
 
 ## Robotics ( Mining Robots designed for mining water on the moon )
 * Every year there is a competetion for schools in America to design and build lunar mining robots
